@@ -1,6 +1,6 @@
 # Emiola Fijabi – Cybersecurity Analyst
 
-👋 Hello! I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with four years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with four years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
 ---
 
@@ -11,7 +11,7 @@
 
 
 ### Identity & Access Security
-- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
+- [Active Directory Deployment & Hardening – Secure domain controller with baseline](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/tree/main)
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
