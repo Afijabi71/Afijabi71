@@ -7,7 +7,7 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 ## 🛡 Project Highlights
 
 ### Lab Foundations
-**Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)[View Project](https://github.com/Afijabi71/Setting-up-a-virtual-Lab/blob/main/Setting%20up%20a%20virtual%20home%20lab.pdf)
+**Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)[View Project](https://github.com/Afijabi71/Setting-up-a-virtual-Lab/tree/main)
 
 
 ### Identity & Access Security
