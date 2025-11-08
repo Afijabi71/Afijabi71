@@ -11,8 +11,8 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 
 
 ### Identity & Access Security
-Active Directory Deployment & Hardening – Secure domain controller with baseline[View Project](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/tree/main)
-- **AWS-Cloud Security Project 
+-1 Active Directory Deployment & Hardening – Secure domain controller with baseline[View Project](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/tree/main)
+-2 AWS-Cloud Security Project 
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
