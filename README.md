@@ -15,7 +15,7 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 - AWS-Cloud Security Project[View Project](https://github.com/Afijabi71/AWS-IAM-Cloud-Security-Project)
 
 ### Vulnerability & Risk Management
-- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
+- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies[View Project](https://github.com/Afijabi71/Security-Policy-Development)
 - **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
 - **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
