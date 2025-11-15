@@ -60,7 +60,7 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Afijabi71/Setting-up-a-virtual-Lab/blob/main/Setting%20up%20a%20virtual%20home%20lab.pdf)
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/tree/main)
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Afijabi71/Security-Policy-Development)
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
