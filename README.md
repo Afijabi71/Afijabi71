@@ -26,7 +26,7 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 - **Honeypot Deployment** – Capturing and analysing attacker behaviour
 
 ### Threat Hunting & Framework Mapping
-- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
+- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections[View Project](https://github.com/Afijabi71/MITRE-ATT-CK-Threat-Hunting-APT-Overlap-Analysis)
 
 ### Social Engineering Defence
 - **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
@@ -64,7 +64,7 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Afijabi71/MITRE-ATT-CK-Threat-Hunting-APT-Overlap-Analysis) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
