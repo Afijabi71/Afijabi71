@@ -16,7 +16,7 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies[View Project](https://github.com/Afijabi71/Security-Policy-Development)
-- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto[https://github.com/Afijabi71/Passive-And-Active-Reconnaissance-On-A-Host-Machine-And-Domain]
+- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto[View Project](https://github.com/Afijabi71/Passive-And-Active-Reconnaissance-On-A-Host-Machine-And-Domain)
 - **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
 ### Detection & Monitoring
