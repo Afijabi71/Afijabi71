@@ -16,7 +16,7 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies[View Project](https://github.com/Afijabi71/Security-Policy-Development)
-- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
+- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto[https://github.com/Afijabi71/Passive-And-Active-Reconnaissance-On-A-Host-Machine-And-Domain]
 - **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
 ### Detection & Monitoring
@@ -61,7 +61,7 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Afijabi71/Active-Directory-Simulation-Bayotech-Solutions/tree/main)
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Afijabi71/Security-Policy-Development)
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Afijabi71/Passive-And-Active-Reconnaissance-On-A-Host-Machine-And-Domain)
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Afijabi71/MITRE-ATT-CK-Threat-Hunting-APT-Overlap-Analysis) |
