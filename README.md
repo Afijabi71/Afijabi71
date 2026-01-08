@@ -1,6 +1,6 @@
-# Emiola Fijabi – Cybersecurity Analyst
+# Adebayo Fijabi – Cybersecurity Analyst
 
-Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with four years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+Hello! 👋 I’m Adebayo Fijabi, a results-driven Cybersecurity Analyst with four years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
 ---
 
