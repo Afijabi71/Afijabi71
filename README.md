@@ -20,7 +20,7 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 - **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
 ### Detection & Monitoring
-- **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk
+- **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk[View Project](https://github.com/Afijabi71/Splunk-SIEM-Project-Log-Monitoring-Threat-Detection/tree/main)
 - **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
 - **Suricata IDS Deployment** – Signature-based intrusion detection
 - **Honeypot Deployment** – Capturing and analysing attacker behaviour
@@ -62,7 +62,7 @@ Hello! 👋 I’m Emiola Fijabi, a results-driven Cybersecurity Analyst with fou
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Afijabi71/Security-Policy-Development)
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Afijabi71/Passive-And-Active-Reconnaissance-On-A-Host-Machine-And-Domain)
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Afijabi71/Splunk-SIEM-Project-Log-Monitoring-Threat-Detection/tree/main)
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Afijabi71/MITRE-ATT-CK-Threat-Hunting-APT-Overlap-Analysis) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
