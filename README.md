@@ -29,7 +29,7 @@ Hello! 👋 I’m Adebayo Fijabi, a results-driven Cybersecurity Analyst with fo
 - **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections[View Project](https://github.com/Afijabi71/MITRE-ATT-CK-Threat-Hunting-APT-Overlap-Analysis)
 
 ### Social Engineering Defence
-- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
+- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher[View Project](https://github.com/Afijabi71/Phishing-Simulation---Security-Awareness-Report)
 - **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
 
 ### Offensive Security Simulations
@@ -65,7 +65,7 @@ Hello! 👋 I’m Adebayo Fijabi, a results-driven Cybersecurity Analyst with fo
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Afijabi71/Splunk-SIEM-Project-Log-Monitoring-Threat-Detection/tree/main)
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Afijabi71/MITRE-ATT-CK-Threat-Hunting-APT-Overlap-Analysis) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Afijabi71/Phishing-Simulation---Security-Awareness-Report)
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
