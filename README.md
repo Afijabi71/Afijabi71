@@ -4,7 +4,7 @@ Hello! I’m Adebayo Fijabi, a results-driven Cybersecurity Analyst with four ye
 
 ---
 
-## 🛡 Project Highlights
+##  Project Highlights
 
 ### Lab Foundations
 **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)[View Project](https://github.com/Afijabi71/Setting-up-a-virtual-Lab/tree/main)
